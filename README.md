@@ -2,7 +2,7 @@
 
 A focused exploratory data analysis (EDA) project on 1,000 supermarket transactions across three cities in Myanmar (January–March 2019). The goal is to uncover sales patterns, revenue distribution, customer behavior, and product line performance through visual analysis.
 
----
+----
 
 ## 📊 Dataset
 
